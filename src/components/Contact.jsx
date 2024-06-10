@@ -13,7 +13,7 @@ export default function Contact() {
         <a href="mailto:as2003born@gmail.com" target='_blank' className="items"><CgMail className="icons"/> </a>
         <a href="https://www.linkedin.com/in/abhishek-gupta-b129061a9/" target='_blank' className="items"><CiLinkedin className="icons"/></a>
         <a href="https://github.com/abhishekteamalpha" target='_blank' className="items"><FaGithub className="icons"/></a>
-        <a href="" target='_blank' className="items"><FaInstagramSquare className="icons"/></a>
+        <a href="https://www.instagram.com/xshekabhi03/?next=%2F" target='_blank' className="items"><FaInstagramSquare className="icons"/></a>
         
       </div>
     </div>
