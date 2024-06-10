@@ -130,11 +130,13 @@ a{
   /* width: 700px; */
   margin: auto;
   width: 900px;
+  
 }
 
 .skills .items .item {
   width: calc(33.33%);
   background-color: black;
+  height: auto;
   margin: 20px;
   text-align: center;
   padding: 20px;
@@ -145,6 +147,7 @@ a{
 
 .skills .items .item  img{
   width: 70px;
+  height: 60px;
 }
 
 /* CONTACT ME SECTION */

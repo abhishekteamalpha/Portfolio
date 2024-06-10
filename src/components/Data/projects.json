@@ -1,34 +1,26 @@
 [
   {
     "key": 1,
-    "title": "React E-Commerce",
-    "imageSrc": "https://cdn.pixabay.com/photo/2018/02/04/17/39/crypto-currency-3130381_640.jpg",
+    "title": "Case Converter",
+    "imageSrc": "https://lh3.googleusercontent.com/-KdzHdp3Dj1R-QcsfNPNxz5mExrhVYf8-kVOcRFBXQC8OgXrH7AQcMY9A7jVZK6dw135bsfKgiZtzjcrz-9Ikpmr2Q=s1280-w1280-h800",
     "description": "This is a project made with complete React js.",
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "#",
+    "source": "https://github.com/abhishekteamalpha/Convert-Text"
   },
   {
     "key": 2,
-    "title": "MERN Blogging",
-    "imageSrc": "https://cdn.pixabay.com/photo/2017/05/02/15/30/streets-2278471_640.jpg",
+    "title": "NewsMonks",
+    "imageSrc": "https://github.com/abhishekteamalpha/NewsMonks/blob/main/public/News%20icon.jpg?raw=true",
     "description": "This is a project made with complete React js.",
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "#",
+    "source": "https://github.com/abhishekteamalpha/NewsMonks"
   },
   {
     "key": 3,
-    "title": "React Recipe",
-    "imageSrc": "https://cdn.pixabay.com/photo/2016/08/16/17/12/skyscrapers-1598418_640.jpg",
-    "description": "This is a project made with complete React js.",
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
-  },
-  {
-    "key": 4,
-    "title": "React Firebase App",
-    "imageSrc": "https://cdn.pixabay.com/photo/2021/03/02/01/07/cyberpunk-6061251_640.jpg",
-    "description": "This is a project made with complete React js.",
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Tic Tac Toe",
+    "imageSrc": "https://cdn-icons-png.flaticon.com/512/2911/2911080.png",
+    "description": "This is a project made with complete Javascript.",
+    "demo": "#",
+    "source": "https://github.com/abhishekteamalpha/Tic-Tac-Toe"
   }
 ]
