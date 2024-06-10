@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "role": "Text Converter",
+    "organisation": "Google",
+    "experiences": [
+      "Technologies Used: HTML, CSS, JS, React JS",
+      "A versatile tool for converting text between various cases."
+    ],
+    "imageSrc": "company/text.jpg"
+  },
+  {
+    "id": 2,
+    "role": "NewsMonks",
+    "organisation": "Mirosoft",
+    "experiences": [
+      "Technologies Used: HTML, CSS, JS, React JS",
+      "Worked on Window 11 Upcoming features"
+    ],
+    "imageSrc": "company/microsoft.png"
+  },
+  {
+    "id": 3,
+    "role": "Software Development Engineer - Intern",
+    "organisation": "Netflix",
+    "startDate": "Apr, 2021",
+    "endDate": "Jun, 2022",
+    "location": "Bengluru, India",
+    "experiences": [
+      "Worked on Nextflix payment system",
+      "Helped to create UI for video player"
+    ],
+    "imageSrc": "company/netflix.png"
+  }
+]
