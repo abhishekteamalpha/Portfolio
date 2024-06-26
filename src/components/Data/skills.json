@@ -16,6 +16,10 @@
     "imageSrc": "skills/react.png"
   },
   {
+    "title": "MySQL",
+    "imageSrc": "skills/sql.png"
+  },
+  {
     "title": "Bootstrap",
     "imageSrc": "skills/Bootstrap.png"
   },
